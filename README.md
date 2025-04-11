@@ -23,8 +23,8 @@ I'm a web designer with a flair for visual storytelling and a strong foundation 
 ## 📬 Let’s Connect
 
 Open to opportunities in web design, content creation, and digital communication.
-**E-Mail**: mllercecilie@gmail.com
-**LinkedIn:** [Contact me on LinkedIn](https://www.linkedin.com/in/cecilie-m%C3%B8ller-8409ba16a/)
+<br>**E-Mail**: mllercecilie@gmail.com
+<br>**LinkedIn:** [Contact me on LinkedIn](https://www.linkedin.com/in/cecilie-m%C3%B8ller-8409ba16a/)
 
 ---
 
