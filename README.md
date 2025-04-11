@@ -1,6 +1,6 @@
-# 🎨 Cecilie | Web Designer with a Creative + Technical Edge
+# Hi, I'm Cecilie | Web Designer with a Creative + Technical Edge
 
-Hi! I'm Cecilie – a web designer with a flair for visual storytelling and a strong foundation in frontend development. I create websites that are not just visually engaging but also functional, accessible, and responsive.
+I'm a web designer with a flair for visual storytelling and a strong foundation in frontend development. I create websites that are not just visually engaging but also functional, accessible, and responsive.
 
 ## 💡 What I Do
 
@@ -23,7 +23,7 @@ Hi! I'm Cecilie – a web designer with a flair for visual storytelling and a st
 ## 📬 Let’s Connect
 
 Open to opportunities in web design, content creation, and digital communication.  
-**LinkedIn:** [https://www.linkedin.com/in/cecilie-m%C3%B8ller-8409ba16a/]
+**LinkedIn:** [LinkedIn](https://www.linkedin.com/in/cecilie-m%C3%B8ller-8409ba16a/)
 
 ---
 
