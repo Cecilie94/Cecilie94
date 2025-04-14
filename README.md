@@ -6,7 +6,7 @@ I'm a web designer with a flair for visual storytelling and a strong foundation 
 
 - **Web Design** – Clean, modern, and user-centered design
 - **Frontend Development** – HTML, CSS, JavaScript
-- **CMS Management** – WordPress, Webflow
+- **CMS Management** – WordPress
 - **Graphic Design** – Adobe Photoshop & InDesign
 - **Content & Communication** – Experience with marketing and SoMe
 
